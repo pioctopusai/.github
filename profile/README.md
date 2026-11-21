@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://pioctopus.ai/en"><img src="https://huggingface.co/spaces/pioctopus-ai/README/resolve/main/banner-en.png" alt="Octopus. AI in your operations. Discover. Design. Lead it live." width="100%"></a>
+  <a href="https://pioctopus.ai/en"><img src="https://raw.githubusercontent.com/pioctopusai/.github/main/profile/banner-en-sa.png" alt="Octopus. AI in your operations. Discover. Design. Lead it live." width="100%"></a>
 </p>
 
 <p align="center">
@@ -68,7 +68,7 @@ Find us on [LinkedIn](https://www.linkedin.com/company/pioctopus/) · [X](https:
 <div dir="rtl" align="right">
 
 <p align="center">
-  <a href="https://pioctopus.ai"><img src="https://huggingface.co/spaces/pioctopus-ai/README/resolve/main/banner-ar.png" alt="أكتبوس. الذكاء الاصطناعي في عملياتك. نكتشف. نصمّم. ونقود حتى التشغيل." width="100%"></a>
+  <a href="https://pioctopus.ai"><img src="https://raw.githubusercontent.com/pioctopusai/.github/main/profile/banner-ar-sa.png" alt="أكتبوس. الذكاء الاصطناعي في عملياتك. نكتشف. نصمّم. ونقود حتى التشغيل." width="100%"></a>
 </p>
 
 ## أكتبوس
