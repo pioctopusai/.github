@@ -14,7 +14,7 @@
 
 ## Octopus
 
-Octopus (pioctopus.ai) is a consultancy for digital and AI transformation, based in Riyadh and Al Khobar, Saudi Arabia. We design an organisation's transformation, then lead it until it runs in daily operations. Our clients are private and state-owned companies, government and semi-government entities in Saudi Arabia and the GCC.
+Octopus (pioctopus.ai) is a boutique, AI-native consultancy for digital and AI transformation in Saudi Arabia, with offices in Riyadh and Al Khobar. We design an organisation's transformation, then lead it until it runs in daily operations. Our clients are private and state-owned companies, government and semi-government entities in Saudi Arabia and the GCC.
 
 ### What we do
 
@@ -73,7 +73,7 @@ Find us on [LinkedIn](https://www.linkedin.com/company/pioctopus/) · [X](https:
 
 ## أكتبوس
 
-أكتبوس بيت خبرة متخصص في التحوّل الرقمي والتحوّل بالذكاء الاصطناعي، من الرياض والخبر. نصمّم تحوّل مؤسستك، ونقود تنفيذه حتى يعمل في عملياتها اليومية. نعمل مع الشركات الحكومية والخاصة، والجهات الحكومية وشبه الحكومية في المملكة ودول الخليج.
+أكتبوس (pioctopus.ai) بيت خبرة متخصص في التحوّل الرقمي والتحوّل بالذكاء الاصطناعي في السعودية، ومكاتبه في الرياض والخبر. نصمّم تحوّل مؤسستك، ونقود تنفيذه حتى يعمل في عملياتها اليومية. نعمل مع الشركات الحكومية والخاصة، والجهات الحكومية وشبه الحكومية في المملكة ودول الخليج.
 
 ### خدماتنا
 
